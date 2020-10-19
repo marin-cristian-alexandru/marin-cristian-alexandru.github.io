@@ -10,8 +10,6 @@ I'm a Software Engineer and a Teaching Assistent.
 TODO
 
 ```markdown
-Syntax highlighted code block
-
 # Hobbies/Interests
 
 - Movies
