@@ -3,7 +3,7 @@
 MY NAME IS ALEX MARIN.
 
 I'm a Software Engineer and a Teaching Assistent.
-![](https://github.com/marin-cristian-alexandru/marin-cristian-alexandru.github.io/blob/main/MarinAlexandru.jpg)
+![](https://github.com/marin-cristian-alexandru/marin-cristian-alexandru.github.io/blob/main/profile.jpg)
 
 
 ### ABOUT ME
